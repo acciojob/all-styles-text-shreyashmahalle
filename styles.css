@@ -1,7 +1,6 @@
 
 /* Your CSS Code here. */
 .main{
-	display:flex;
 	background-color:purple;
 	width:200px;
 	border-left: 5px solid green;
